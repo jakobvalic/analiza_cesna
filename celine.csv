@@ -1,0 +1,701 @@
+Domain Code,Domain,Country Code,Country,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1964,1964,Ha,7190.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1964,1964,Hg/Ha,103451.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1964,1964,tonnes,74381.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1964,1964,Ha,38601.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1964,1964,Hg/Ha,37839.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1964,1964,tonnes,146063.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1964,1964,tonnes,8266.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1964,1964,Ha,417309.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1964,1964,Hg/Ha,59289.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1964,1964,tonnes,2474203.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1964,1964,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1964,1964,Ha,77717.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1964,1964,Hg/Ha,48554.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1964,1964,tonnes,377349.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1965,1965,tonnes,359423.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1965,1965,Hg/Ha,46517.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1965,1965,Ha,77267.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1965,1965,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1965,1965,tonnes,2568553.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1965,1965,Hg/Ha,62701.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1965,1965,Ha,409650.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1965,1965,tonnes,7290.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1965,1965,tonnes,149149.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1965,1965,Hg/Ha,38897.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1965,1965,Ha,38345.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1965,1965,tonnes,88427.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1965,1965,Hg/Ha,115591.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1965,1965,Ha,7650.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1966,1966,Ha,9604.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1966,1966,Hg/Ha,132128.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1966,1966,tonnes,126896.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1966,1966,Ha,36878.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1966,1966,Hg/Ha,38501.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1966,1966,tonnes,141985.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1966,1966,tonnes,7331.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1966,1966,Ha,416125.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1966,1966,Hg/Ha,63233.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1966,1966,tonnes,2631286.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1966,1966,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1966,1966,Ha,73801.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1966,1966,Hg/Ha,48293.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1966,1966,tonnes,356406.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1967,1967,tonnes,346912.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1967,1967,Hg/Ha,50497.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1967,1967,Ha,68700.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1967,1967,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1967,1967,tonnes,2701491.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1967,1967,Hg/Ha,63907.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1967,1967,Ha,422722.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1967,1967,tonnes,7794.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1967,1967,tonnes,160281.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1967,1967,Hg/Ha,43061.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1967,1967,Ha,37222.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1967,1967,tonnes,83883.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1967,1967,Hg/Ha,116682.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1967,1967,Ha,7189.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1968,1968,Ha,6791.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1968,1968,Hg/Ha,121265.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1968,1968,tonnes,82351.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1968,1968,Ha,39255.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1968,1968,Hg/Ha,45074.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1968,1968,tonnes,176938.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1968,1968,tonnes,7762.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1968,1968,Ha,394717.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1968,1968,Hg/Ha,70837.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1968,1968,tonnes,2796038.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1968,1968,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1968,1968,Ha,70748.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1968,1968,Hg/Ha,48294.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1968,1968,tonnes,341670.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1969,1969,tonnes,364968.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1969,1969,Hg/Ha,48651.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1969,1969,Ha,75017.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1969,1969,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1969,1969,tonnes,2922198.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1969,1969,Hg/Ha,72393.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1969,1969,Ha,403659.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1969,1969,tonnes,7464.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1969,1969,tonnes,185995.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1969,1969,Hg/Ha,45564.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1969,1969,Ha,40821.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1969,1969,tonnes,118542.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1969,1969,Hg/Ha,254327.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1969,1969,Ha,4661.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1970,1970,Ha,6092.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1970,1970,Hg/Ha,253601.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1970,1970,tonnes,154494.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1970,1970,Ha,40318.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1970,1970,Hg/Ha,45207.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1970,1970,tonnes,182264.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1970,1970,tonnes,7244.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1970,1970,Ha,295529.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1970,1970,Hg/Ha,72415.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1970,1970,tonnes,2140074.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1970,1970,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1970,1970,Ha,74346.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1970,1970,Hg/Ha,50836.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1970,1970,tonnes,377944.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1971,1971,tonnes,387786.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1971,1971,Hg/Ha,49142.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1971,1971,Ha,78912.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1971,1971,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1971,1971,tonnes,2469770.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1971,1971,Hg/Ha,75478.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1971,1971,Ha,327216.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1971,1971,tonnes,7376.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1971,1971,tonnes,177487.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1971,1971,Hg/Ha,45260.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1971,1971,Ha,39215.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1971,1971,tonnes,117001.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1971,1971,Hg/Ha,188226.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1971,1971,Ha,6216.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1972,1972,Ha,6013.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1972,1972,Hg/Ha,213220.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1972,1972,tonnes,128209.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1972,1972,Ha,40914.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1972,1972,Hg/Ha,48460.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1972,1972,tonnes,198269.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1972,1972,tonnes,6174.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1972,1972,Ha,321079.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1972,1972,Hg/Ha,70921.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1972,1972,tonnes,2277120.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1972,1972,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1972,1972,Ha,77356.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1972,1972,Hg/Ha,48733.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1972,1972,tonnes,376982.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1973,1973,tonnes,418223.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1973,1973,Hg/Ha,49889.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1973,1973,Ha,83831.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1973,1973,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1973,1973,tonnes,2633649.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1973,1973,Hg/Ha,73069.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1973,1973,Ha,360432.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1973,1973,tonnes,5522.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1973,1973,tonnes,205686.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1973,1973,Hg/Ha,50862.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1973,1973,Ha,40440.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1973,1973,tonnes,215373.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1973,1973,Hg/Ha,264521.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1973,1973,Ha,8142.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1974,1974,Ha,8378.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1974,1974,Hg/Ha,230631.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1974,1974,tonnes,193223.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1974,1974,Ha,42357.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1974,1974,Hg/Ha,54047.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1974,1974,tonnes,228925.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1974,1974,tonnes,3127.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1974,1974,Ha,352375.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1974,1974,Hg/Ha,74892.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1974,1974,tonnes,2639010.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1974,1974,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1974,1974,Ha,94426.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1974,1974,Hg/Ha,51276.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1974,1974,tonnes,484180.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1975,1975,tonnes,423662.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1975,1975,Hg/Ha,47013.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1975,1975,Ha,90116.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1975,1975,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1975,1975,tonnes,2764269.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1975,1975,Hg/Ha,76870.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1975,1975,Ha,359605.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1975,1975,tonnes,3602.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1975,1975,tonnes,225251.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1975,1975,Hg/Ha,58648.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1975,1975,Ha,38407.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1975,1975,tonnes,140515.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1975,1975,Hg/Ha,160534.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1975,1975,Ha,8753.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1976,1976,Ha,9221.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1976,1976,Hg/Ha,172162.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1976,1976,tonnes,158751.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1976,1976,Ha,37403.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1976,1976,Hg/Ha,55484.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1976,1976,tonnes,207528.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1976,1976,tonnes,3380.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1976,1976,Ha,353967.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1976,1976,Hg/Ha,78360.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1976,1976,tonnes,2773679.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1976,1976,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1976,1976,Ha,91309.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1976,1976,Hg/Ha,44133.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1976,1976,tonnes,402974.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1977,1977,tonnes,440112.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1977,1977,Hg/Ha,48796.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1977,1977,Ha,90195.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1977,1977,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1977,1977,tonnes,2960565.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1977,1977,Hg/Ha,75546.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1977,1977,Ha,391887.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1977,1977,tonnes,3647.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1977,1977,tonnes,231918.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1977,1977,Hg/Ha,57298.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1977,1977,Ha,40476.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1977,1977,tonnes,220750.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1977,1977,Hg/Ha,199431.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1977,1977,Ha,11069.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1978,1978,Ha,10408.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1978,1978,Hg/Ha,166827.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1978,1978,tonnes,173634.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1978,1978,Ha,45295.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1978,1978,Hg/Ha,59552.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1978,1978,tonnes,269741.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1978,1978,tonnes,4372.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1978,1978,Ha,436893.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1978,1978,Hg/Ha,70304.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1978,1978,tonnes,3071540.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1978,1978,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1978,1978,Ha,96712.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1978,1978,Hg/Ha,49577.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1978,1978,tonnes,479468.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1979,1979,tonnes,472525.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1979,1979,Hg/Ha,45491.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1979,1979,Ha,103873.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1979,1979,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1979,1979,tonnes,3445510.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1979,1979,Hg/Ha,74855.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1979,1979,Ha,460289.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1979,1979,tonnes,6407.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1979,1979,tonnes,306973.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1979,1979,Hg/Ha,62003.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1979,1979,Ha,49509.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1979,1979,tonnes,184589.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1979,1979,Hg/Ha,164386.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1979,1979,Ha,11229.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1980,1980,Ha,13700.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1980,1980,Hg/Ha,167006.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1980,1980,tonnes,228798.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1980,1980,Ha,52165.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1980,1980,Hg/Ha,59899.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1980,1980,tonnes,312461.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1980,1980,tonnes,9562.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1980,1980,Ha,456389.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1980,1980,Hg/Ha,71081.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1980,1980,tonnes,3244046.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1980,1980,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1980,1980,Ha,96972.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1980,1980,Hg/Ha,47969.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1980,1980,tonnes,465162.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1981,1981,tonnes,425714.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1981,1981,Hg/Ha,43420.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1981,1981,Ha,98046.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1981,1981,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1981,1981,tonnes,3535323.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1981,1981,Hg/Ha,73755.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1981,1981,Ha,479333.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1981,1981,tonnes,13243.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1981,1981,tonnes,274149.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1981,1981,Hg/Ha,58893.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1981,1981,Ha,46550.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1981,1981,tonnes,190420.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1981,1981,Hg/Ha,156996.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1981,1981,Ha,12129.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1982,1982,Ha,11666.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1982,1982,Hg/Ha,155706.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1982,1982,tonnes,181647.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1982,1982,Ha,46803.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1982,1982,Hg/Ha,61303.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1982,1982,tonnes,286917.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1982,1982,tonnes,13384.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1982,1982,Ha,516899.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1982,1982,Hg/Ha,73703.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1982,1982,tonnes,3809689.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1982,1982,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1982,1982,Ha,95709.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1982,1982,Hg/Ha,50444.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1982,1982,tonnes,482795.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1983,1983,tonnes,520936.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1983,1983,Hg/Ha,51196.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1983,1983,Ha,101754.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1983,1983,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1983,1983,tonnes,4039703.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1983,1983,Hg/Ha,73813.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1983,1983,Ha,547292.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1983,1983,tonnes,11621.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1983,1983,tonnes,309895.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1983,1983,Hg/Ha,62765.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1983,1983,Ha,49374.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1983,1983,tonnes,215729.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1983,1983,Hg/Ha,171868.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1983,1983,Ha,12552.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1984,1984,Ha,15179.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1984,1984,Hg/Ha,145376.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1984,1984,tonnes,220666.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1984,1984,Ha,45655.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1984,1984,Hg/Ha,67558.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1984,1984,tonnes,308436.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1984,1984,tonnes,11715.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1984,1984,Ha,550652.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1984,1984,Hg/Ha,74074.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1984,1984,tonnes,4078876.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1984,1984,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1984,1984,Ha,106357.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1984,1984,Hg/Ha,53642.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1984,1984,tonnes,570518.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1985,1985,tonnes,513213.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1985,1985,Hg/Ha,51284.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1985,1985,Ha,100072.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1985,1985,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1985,1985,tonnes,4139372.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1985,1985,Hg/Ha,78323.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1985,1985,Ha,528502.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1985,1985,tonnes,13716.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1985,1985,tonnes,292562.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1985,1985,Hg/Ha,71682.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1985,1985,Ha,40814.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1985,1985,tonnes,140852.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1985,1985,Hg/Ha,97092.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1985,1985,Ha,14507.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1986,1986,Ha,14241.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1986,1986,Hg/Ha,90589.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1986,1986,tonnes,129008.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1986,1986,Ha,45045.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1986,1986,Hg/Ha,72543.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1986,1986,tonnes,326769.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1986,1986,tonnes,15147.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1986,1986,Ha,556489.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1986,1986,Hg/Ha,78981.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1986,1986,tonnes,4395194.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1986,1986,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1986,1986,Ha,98821.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1986,1986,Hg/Ha,52237.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1986,1986,tonnes,516213.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1987,1987,tonnes,524492.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1987,1987,Hg/Ha,49503.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1987,1987,Ha,105952.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1987,1987,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1987,1987,tonnes,4684683.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1987,1987,Hg/Ha,78717.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1987,1987,Ha,595128.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1987,1987,tonnes,13882.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1987,1987,tonnes,371622.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1987,1987,Hg/Ha,72315.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1987,1987,Ha,51389.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1987,1987,tonnes,199344.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1987,1987,Hg/Ha,106584.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1987,1987,Ha,18703.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1988,1988,Ha,18834.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1988,1988,Hg/Ha,103310.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1988,1988,tonnes,194574.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1988,1988,Ha,51316.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1988,1988,Hg/Ha,73523.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1988,1988,tonnes,377291.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1988,1988,tonnes,13816.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1988,1988,Ha,581691.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1988,1988,Hg/Ha,80745.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1988,1988,tonnes,4696844.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1988,1988,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1988,1988,Ha,107796.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1988,1988,Hg/Ha,51408.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1988,1988,tonnes,554158.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1989,1989,tonnes,558764.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1989,1989,Hg/Ha,50346.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1989,1989,Ha,110985.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1989,1989,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1989,1989,tonnes,4873912.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1989,1989,Hg/Ha,83569.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1989,1989,Ha,583219.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1989,1989,tonnes,15912.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1989,1989,tonnes,368702.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1989,1989,Hg/Ha,78294.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1989,1989,Ha,47092.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1989,1989,tonnes,193319.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1989,1989,Hg/Ha,107537.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1989,1989,Ha,17977.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1990,1990,Ha,18918.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1990,1990,Hg/Ha,127787.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1990,1990,tonnes,241747.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1990,1990,Ha,50165.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1990,1990,Hg/Ha,79287.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1990,1990,tonnes,397742.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1990,1990,tonnes,16469.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1990,1990,Ha,630758.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1990,1990,Hg/Ha,84281.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1990,1990,tonnes,5316074.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1990,1990,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1990,1990,Ha,111547.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1990,1990,Hg/Ha,45510.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1990,1990,tonnes,507653.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1991,1991,tonnes,533085.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1991,1991,Hg/Ha,47738.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1991,1991,Ha,111670.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1991,1991,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1991,1991,tonnes,5807720.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1991,1991,Hg/Ha,95827.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1991,1991,Ha,606060.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1991,1991,tonnes,15840.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1991,1991,tonnes,465207.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1991,1991,Hg/Ha,80579.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1991,1991,Ha,57733.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1991,1991,tonnes,287972.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1991,1991,Hg/Ha,147610.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1991,1991,Ha,19509.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1992,1992,Ha,19390.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1992,1992,Hg/Ha,130091.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1992,1992,tonnes,252246.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1992,1992,Ha,61967.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1992,1992,Hg/Ha,78589.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1992,1992,tonnes,486991.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1992,1992,tonnes,14889.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1992,1992,Ha,604678.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1992,1992,Hg/Ha,99895.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1992,1992,tonnes,6040423.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1992,1992,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1992,1992,Ha,114993.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1992,1992,Hg/Ha,53816.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1992,1992,tonnes,618843.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1993,1993,tonnes,578025.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1993,1993,Hg/Ha,50376.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1993,1993,Ha,114742.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1993,1993,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1993,1993,tonnes,6101615.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1993,1993,Hg/Ha,98763.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1993,1993,Ha,617801.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1993,1993,tonnes,16371.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1993,1993,tonnes,479241.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1993,1993,Hg/Ha,79331.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1993,1993,Ha,60410.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1993,1993,tonnes,337244.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1993,1993,Hg/Ha,150885.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1993,1993,Ha,22351.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1994,1994,Ha,21564.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1994,1994,Hg/Ha,95255.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1994,1994,tonnes,205408.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1994,1994,Ha,60609.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1994,1994,Hg/Ha,85215.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1994,1994,tonnes,516480.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1994,1994,tonnes,14055.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1994,1994,Ha,622747.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1994,1994,Hg/Ha,102585.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1994,1994,tonnes,6388422.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1994,1994,tonnes,0.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1994,1994,Ha,120863.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1994,1994,Hg/Ha,50487.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1994,1994,tonnes,610195.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1995,1995,tonnes,668597.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1995,1995,Hg/Ha,52632.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1995,1995,Ha,127032.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1995,1995,tonnes,4.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1995,1995,tonnes,7126834.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1995,1995,Hg/Ha,104737.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1995,1995,Ha,680452.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1995,1995,tonnes,15653.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1995,1995,tonnes,482185.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1995,1995,Hg/Ha,89781.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1995,1995,Ha,53707.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1995,1995,tonnes,217619.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1995,1995,Hg/Ha,97679.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1995,1995,Ha,22279.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1996,1996,Ha,27597.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1996,1996,Hg/Ha,128977.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1996,1996,tonnes,355937.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1996,1996,Ha,62216.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1996,1996,Hg/Ha,95420.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1996,1996,tonnes,593668.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1996,1996,tonnes,15952.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1996,1996,Ha,673249.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1996,1996,Hg/Ha,108983.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1996,1996,tonnes,7337300.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1996,1996,tonnes,6.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1996,1996,Ha,124901.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1996,1996,Hg/Ha,54458.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1996,1996,tonnes,680184.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1997,1997,tonnes,737448.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1997,1997,Hg/Ha,56656.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1997,1997,Ha,130163.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1997,1997,tonnes,1.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1997,1997,tonnes,7303445.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1997,1997,Hg/Ha,103401.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1997,1997,Ha,706322.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1997,1997,tonnes,16116.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1997,1997,tonnes,610249.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1997,1997,Hg/Ha,93932.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1997,1997,Ha,64967.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1997,1997,tonnes,258249.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1997,1997,Hg/Ha,107144.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1997,1997,Ha,24103.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1998,1998,Ha,26078.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1998,1998,Hg/Ha,107721.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1998,1998,tonnes,280915.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1998,1998,Ha,67253.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1998,1998,Hg/Ha,91552.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1998,1998,tonnes,615718.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1998,1998,tonnes,17621.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1998,1998,Ha,737627.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1998,1998,Hg/Ha,101860.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1998,1998,tonnes,7513496.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1998,1998,tonnes,3.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1998,1998,Ha,127091.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1998,1998,Hg/Ha,56398.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1998,1998,tonnes,716762.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,1999,1999,tonnes,744290.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,1999,1999,Hg/Ha,57717.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,1999,1999,Ha,128956.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,1999,1999,tonnes,5.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,1999,1999,tonnes,7920226.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,1999,1999,Hg/Ha,103479.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,1999,1999,Ha,765398.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,1999,1999,tonnes,12020.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,1999,1999,tonnes,725386.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,1999,1999,Hg/Ha,106861.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,1999,1999,Ha,67881.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,1999,1999,tonnes,340364.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,1999,1999,Hg/Ha,117189.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,1999,1999,Ha,29044.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,2000,2000,Ha,32980.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,2000,2000,Hg/Ha,121587.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,2000,2000,tonnes,400993.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,2000,2000,Ha,71371.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,2000,2000,Hg/Ha,97737.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,2000,2000,tonnes,697556.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,2000,2000,tonnes,13685.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,2000,2000,Ha,850487.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,2000,2000,Hg/Ha,108706.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,2000,2000,tonnes,9245313.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,2000,2000,tonnes,1.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,2000,2000,Ha,129019.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,2000,2000,Hg/Ha,57605.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,2000,2000,tonnes,743210.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,2001,2001,tonnes,828862.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,2001,2001,Hg/Ha,62745.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,2001,2001,Ha,132100.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,2001,2001,tonnes,2.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,2001,2001,tonnes,9580674.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,2001,2001,Hg/Ha,110313.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,2001,2001,Ha,868500.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,2001,2001,tonnes,14882.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,2001,2001,tonnes,719824.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,2001,2001,Hg/Ha,102589.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,2001,2001,Ha,70166.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,2001,2001,tonnes,358383.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,2001,2001,Hg/Ha,122173.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,2001,2001,Ha,29334.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,2002,2002,Ha,28718.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,2002,2002,Hg/Ha,121302.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,2002,2002,tonnes,348354.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,2002,2002,Ha,66891.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,2002,2002,Hg/Ha,102675.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,2002,2002,tonnes,686802.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,2002,2002,tonnes,14550.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,2002,2002,Ha,897785.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,2002,2002,Hg/Ha,119601.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,2002,2002,tonnes,1.0737567E7,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,2002,2002,tonnes,2.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,2002,2002,Ha,123742.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,2002,2002,Hg/Ha,64363.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,2002,2002,tonnes,796438.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,2003,2003,tonnes,747710.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,2003,2003,Hg/Ha,60711.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,2003,2003,Ha,123158.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,2003,2003,tonnes,2.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,2003,2003,tonnes,1.1792282E7,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,2003,2003,Hg/Ha,129263.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,2003,2003,Ha,912270.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,2003,2003,tonnes,10656.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,2003,2003,tonnes,741361.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,2003,2003,Hg/Ha,107386.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,2003,2003,Ha,69037.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,2003,2003,tonnes,402808.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,2003,2003,Hg/Ha,107378.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,2003,2003,Ha,37513.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,2004,2004,Ha,39974.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,2004,2004,Hg/Ha,115929.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,2004,2004,tonnes,463416.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,2004,2004,Ha,61298.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,2004,2004,Hg/Ha,108945.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,2004,2004,tonnes,667809.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,2004,2004,tonnes,10551.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,2004,2004,Ha,941915.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,2004,2004,Hg/Ha,133120.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,2004,2004,tonnes,1.2538782E7,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,2004,2004,tonnes,3.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,2004,2004,Ha,114357.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,2004,2004,Hg/Ha,69227.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,2004,2004,tonnes,791658.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,2005,2005,tonnes,801438.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,2005,2005,Hg/Ha,71346.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,2005,2005,Ha,112331.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,2005,2005,tonnes,3.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,2005,2005,tonnes,1.3147182E7,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,2005,2005,Hg/Ha,125435.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,2005,2005,Ha,1048130.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,2005,2005,tonnes,10990.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,2005,2005,tonnes,617825.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,2005,2005,Hg/Ha,101451.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,2005,2005,Ha,60899.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,2005,2005,tonnes,497855.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,2005,2005,Hg/Ha,108496.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,2005,2005,Ha,45887.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,2006,2006,Ha,45084.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,2006,2006,Hg/Ha,92907.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,2006,2006,tonnes,418864.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,2006,2006,Ha,62236.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,2006,2006,Hg/Ha,103886.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,2006,2006,tonnes,646546.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,2006,2006,tonnes,12510.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,2006,2006,Ha,963468.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,2006,2006,Hg/Ha,139717.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,2006,2006,tonnes,1.3461319E7,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,2006,2006,tonnes,3.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,2006,2006,Ha,107469.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,2006,2006,Hg/Ha,73994.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,2006,2006,tonnes,795203.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,2007,2007,tonnes,750791.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,2007,2007,Hg/Ha,71217.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,2007,2007,Ha,105423.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,2007,2007,tonnes,3.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,2007,2007,tonnes,1.8244565E7,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,2007,2007,Hg/Ha,166829.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,2007,2007,Ha,1093610.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,2007,2007,tonnes,12053.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,2007,2007,tonnes,650335.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,2007,2007,Hg/Ha,104732.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,2007,2007,Ha,62095.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,2007,2007,tonnes,437835.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,2007,2007,Hg/Ha,102226.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,2007,2007,Ha,42830.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,2008,2008,Ha,43563.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,2008,2008,Hg/Ha,132826.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,2008,2008,tonnes,578630.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,2008,2008,Ha,58395.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,2008,2008,Hg/Ha,105141.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,2008,2008,tonnes,613971.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,2008,2008,tonnes,11188.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,2008,2008,Ha,1202427.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,2008,2008,Hg/Ha,173438.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,2008,2008,tonnes,2.0854669E7,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,2008,2008,tonnes,2.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,2008,2008,Ha,101070.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,2008,2008,Hg/Ha,73382.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,2008,2008,tonnes,741674.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,2009,2009,tonnes,764345.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,2009,2009,Hg/Ha,73934.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,2009,2009,Ha,103382.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,2009,2009,tonnes,1.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,2009,2009,tonnes,2.0176537E7,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,2009,2009,Hg/Ha,181497.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,2009,2009,Ha,1111673.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,2009,2009,tonnes,11832.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,2009,2009,tonnes,594990.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,2009,2009,Hg/Ha,100459.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,2009,2009,Ha,59227.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,2009,2009,tonnes,496386.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,2009,2009,Hg/Ha,110063.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,2009,2009,Ha,45100.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,2010,2010,Ha,43683.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,2010,2010,Hg/Ha,116850.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,2010,2010,tonnes,510437.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,2010,2010,Ha,59109.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,2010,2010,Hg/Ha,103130.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,2010,2010,tonnes,609596.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,2010,2010,tonnes,14171.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,2010,2010,Ha,1131804.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,2010,2010,Hg/Ha,182788.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,2010,2010,tonnes,2.0688052E7,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,2010,2010,tonnes,1.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,2010,2010,Ha,101587.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,2010,2010,Hg/Ha,73663.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,2010,2010,tonnes,748317.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,2011,2011,tonnes,773809.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,2011,2011,Hg/Ha,74793.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,2011,2011,Ha,103460.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,2011,2011,tonnes,1.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,2011,2011,tonnes,2.1029448E7,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,2011,2011,Hg/Ha,179913.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,2011,2011,Ha,1168865.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,2011,2011,tonnes,12038.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,2011,2011,tonnes,695124.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,2011,2011,Hg/Ha,105500.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,2011,2011,Ha,65889.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,2011,2011,tonnes,567936.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,2011,2011,Hg/Ha,116900.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,2011,2011,Ha,48583.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,2012,2012,Ha,63023.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,2012,2012,Hg/Ha,114307.0,Fc,Calculated data
+QC,Crops,5100,Africa,5510,Production,406,Garlic,2012,2012,tonnes,720394.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,2012,2012,Ha,63279.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,2012,2012,Hg/Ha,106194.0,Fc,Calculated data
+QC,Crops,5200,Americas,5510,Production,406,Garlic,2012,2012,tonnes,671992.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,2012,2012,tonnes,11890.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,2012,2012,Ha,1226791.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,2012,2012,Hg/Ha,173563.0,Fc,Calculated data
+QC,Crops,5300,Asia,5510,Production,406,Garlic,2012,2012,tonnes,2.1292524E7,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,2012,2012,tonnes,1.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,2012,2012,Ha,107317.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,2012,2012,Hg/Ha,72072.0,Fc,Calculated data
+QC,Crops,5400,Europe,5510,Production,406,Garlic,2012,2012,tonnes,773452.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5510,Production,406,Garlic,2013,2013,tonnes,815002.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5400,Europe,5419,Yield,406,Garlic,2013,2013,Hg/Ha,75319.0,Fc,Calculated data
+QC,Crops,5400,Europe,5312,Area harvested,406,Garlic,2013,2013,Ha,108206.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5525,Seed,406,Garlic,2013,2013,tonnes,1.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5510,Production,406,Garlic,2013,2013,tonnes,2.2180896E7,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5300,Asia,5419,Yield,406,Garlic,2013,2013,Hg/Ha,182264.0,Fc,Calculated data
+QC,Crops,5300,Asia,5312,Area harvested,406,Garlic,2013,2013,Ha,1216968.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5525,Seed,406,Garlic,2013,2013,tonnes,11824.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5510,Production,406,Garlic,2013,2013,tonnes,646555.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5200,Americas,5419,Yield,406,Garlic,2013,2013,Hg/Ha,105074.0,Fc,Calculated data
+QC,Crops,5200,Americas,5312,Area harvested,406,Garlic,2013,2013,Ha,61533.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5510,Production,406,Garlic,2013,2013,tonnes,641275.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+QC,Crops,5100,Africa,5419,Yield,406,Garlic,2013,2013,Hg/Ha,112039.0,Fc,Calculated data
+QC,Crops,5100,Africa,5312,Area harvested,406,Garlic,2013,2013,Ha,57237.0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
